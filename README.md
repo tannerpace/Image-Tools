@@ -42,6 +42,11 @@ To run this script:
 chmod +x icon.sh
 ./icon.sh
 ```
+# Next.js 
+
+.create-page.sh
+is a script to generate necessary files for a folder using the new app router, pass the page name as a parameter make sure it is all lowercase 
+
 
 ## Contribute
 
